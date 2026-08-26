@@ -1,15 +1,13 @@
 
 <div align="center">
 
-<img src="./assets/profile.png" width="220" alt="Md. Tanjid Khan"/>
+<img src="./assets/profile.png.png" width="" alt="Md. Tanjid Khan"/>
 
 <h1>
-  Hi there 👋
+  Hi there 👋 Md. <span style="color:#58A6FF;">Tanjid Khan</span>
 </h1>
 
-<h2>
-  Md. <span style="color:#58A6FF;">Tanjid Khan</span>
-</h2>
+
 
 <h3 align="center">
   <img
