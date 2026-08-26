@@ -59,8 +59,8 @@
 <div align="center">
 
 <a href="https://github.com/mdtanjidkhan">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mdtanjidkhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"
+<img
+    src="https://github-stats-extended.vercel.app/api?username=mdtanjidkhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
     alt="Md. Tanjid Khan's GitHub Stats"
     height="180"
   />
