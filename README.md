@@ -53,28 +53,6 @@
 </a>
 
 </div>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<a href="https://github.com/mdtanjidkhan">
-<img
-    src="https://github-stats-extended.vercel.app/api?username=mdtanjidkhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
-    alt="Md. Tanjid Khan's GitHub Stats"
-    height="180"
-  />
-</a>
-
-<a href="https://github.com/mdtanjidkhan">
-  <img
-    src="https://streak-stats.demolab.com/?user=mdtanjidkhan&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B00&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    alt="Md. Tanjid Khan's GitHub Contribution Streak"
-    height="180"
-  />
-</a>
-
-</div>
 <h2 align="center">👨‍💻 About Me</h2>
 
 <table>
@@ -111,6 +89,30 @@ I love turning ideas into real-world products and continuously improving my deve
 </td>
 </tr>
 </table>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<a href="https://github.com/mdtanjidkhan">
+<img
+    src="https://github-stats-extended.vercel.app/api?username=mdtanjidkhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
+    alt="Md. Tanjid Khan's GitHub Stats"
+    height="180"
+  />
+</a>
+
+<a href="https://github.com/mdtanjidkhan">
+  <img
+    src="https://streak-stats.demolab.com/?user=mdtanjidkhan&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B00&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="Md. Tanjid Khan's GitHub Contribution Streak"
+    height="180"
+  />
+</a>
+
+</div>
+
+
 
 <br/>
 
